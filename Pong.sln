@@ -5,6 +5,10 @@ VisualStudioVersion = 15.0.28010.2048
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Pong", "Pong\Pong.csproj", "{3D1A6D3F-F0F3-48AC-886F-54A88C277FA4}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Joystick", "Joystick\Joystick.csproj", "{68A22412-8DDC-45E9-8A4F-C23D62FFFFFE}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Display", "Display\Display.csproj", "{4CD5964F-5BAC-4FE3-A5D0-35E92A070814}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -15,6 +19,14 @@ Global
 		{3D1A6D3F-F0F3-48AC-886F-54A88C277FA4}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{3D1A6D3F-F0F3-48AC-886F-54A88C277FA4}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{3D1A6D3F-F0F3-48AC-886F-54A88C277FA4}.Release|Any CPU.Build.0 = Release|Any CPU
+		{68A22412-8DDC-45E9-8A4F-C23D62FFFFFE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{68A22412-8DDC-45E9-8A4F-C23D62FFFFFE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{68A22412-8DDC-45E9-8A4F-C23D62FFFFFE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{68A22412-8DDC-45E9-8A4F-C23D62FFFFFE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4CD5964F-5BAC-4FE3-A5D0-35E92A070814}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4CD5964F-5BAC-4FE3-A5D0-35E92A070814}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4CD5964F-5BAC-4FE3-A5D0-35E92A070814}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4CD5964F-5BAC-4FE3-A5D0-35E92A070814}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
